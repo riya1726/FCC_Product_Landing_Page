@@ -1,0 +1,97 @@
+body{
+  background-color: antiquewhite;
+}
+
+#pricing {
+  height: 500px;
+  display: flex;
+}
+
+#box-1 {
+  width: 30%;
+  height: 60%;
+  padding-left: 30px;
+  border: 2px solid black;
+}
+
+#box-2 {
+  width: 30%;
+  height: 60%;
+  padding-left: 30px;
+  border: 2px solid black;
+}
+
+#box-3 {
+  width: 30%;
+  height: 60%;
+  padding-left: 30px;
+  border: 2px solid black;
+}
+
+#video {
+    padding-left: 30%;
+}
+
+#submit{
+  text-align: center;
+  padding-bottom: 0.8em;
+  background-color: yellow;
+  font-size: large;
+  font-weight: bold;
+}
+
+#form {
+  padding: 5em;
+  text-align: center;
+  padding-bottom: 8em;
+}
+
+#email {
+  padding: 0.8em;
+  width: 300px;
+  text-align: center;
+}
+
+header{
+  display: flex;
+  position:fixed;
+  top:30px;
+  font-family: sans-serif;
+  padding-left: 33%;
+  padding-right: 30%;
+  padding-bottom: 10px;
+  font-size: 1.5em; 
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+#header-img{
+  position:fixed;
+  top:15px; 
+  left:20px;
+  width: 25%;
+}
+
+#nav-bar{
+  position:fixed;
+  top:15px; 
+  right: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  padding: 0.5em;
+}
+
+footer {
+  padding: 2em;
+  background: darkslategrey;
+  color: white;
+  text-align: center;
+  font-family: archivo;
+}
+
+#features{
+  padding: 0.5em;
+  padding-left: 10%;
+}
